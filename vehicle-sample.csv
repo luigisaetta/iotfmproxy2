@@ -1,0 +1,4 @@
+# Format: Refer to documentation for more information
+# registrationNumber,vin,activationId,secret,vehicle_model,make,year,name
+# Examples:
+12,vin2,id2,welcome1,bmwx1,bmw,2017,googx2
